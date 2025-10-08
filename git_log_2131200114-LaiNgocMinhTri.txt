@@ -1,0 +1,50 @@
+commit 1c3cdc287c263ff99f6127bc50414d113ab6a519
+Author: zKai0z <kavejicraft@gmail.com>
+Date:   Wed Oct 8 15:52:01 2025 +0700
+
+    Revert "Refactor: Reorder operator keys"
+    
+    This reverts commit 58f66457ef58a7c134ca3c34d29a7076356064a9.
+
+commit 0348d8c44f4cbbc2f62aa1a5ab96585c451bb1b8
+Author: zKai0z <kavejicraft@gmail.com>
+Date:   Wed Oct 8 15:46:06 2025 +0700
+
+    Build: Add .gitignore to ignore log files
+
+commit 020c2b47eafc88bfc2ea62120b7c9e107a465c93
+Author: zKai0z <kavejicraft@gmail.com>
+Date:   Wed Oct 8 15:43:49 2025 +0700
+
+    no
+
+commit 0407021bbfb19ae151c091efc030b0d2bb4982a9
+Author: zKai0z <kavejicraft@gmail.com>
+Date:   Wed Oct 8 15:42:36 2025 +0700
+
+    yes
+
+commit 282c700178934da1f3fb91f598de9e866750f4ca
+Merge: 58f6645 10711c2
+Author: zKai0z <kavejicraft@gmail.com>
+Date:   Wed Oct 8 15:35:39 2025 +0700
+
+    Merge branch 'feature-sqrt'
+
+commit 58f66457ef58a7c134ca3c34d29a7076356064a9
+Author: zKai0z <kavejicraft@gmail.com>
+Date:   Wed Oct 8 15:30:47 2025 +0700
+
+    Refactor: Reorder operator keys
+
+commit 10711c24f419ee995aacff4727868ee6d6babd37
+Author: zKai0z <kavejicraft@gmail.com>
+Date:   Wed Oct 8 15:25:00 2025 +0700
+
+    Feature: Add square root functionality
+
+commit 7b4b3e0419f4904fb0e753f9a6da795aea08ecd2
+Author: zKai0z <kavejicraft@gmail.com>
+Date:   Wed Oct 8 15:13:59 2025 +0700
+
+    Initial commit: Add base calculator project files
